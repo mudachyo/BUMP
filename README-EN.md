@@ -3,9 +3,9 @@
 > - Канал: [Telegram Channel](https://t.me/shopalenka) 
 > - 🇪🇳 README in english available [here](README-EN.md)
 ---
-## Как запустить  
+## How to run  
 - Install extension in your browser [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
-- In order for BUMP to open in a browser, install [этот скрипт](https://github.com/mudachyo/BUMP/raw/main/bump-web.user.js)
+- In order for BUMP to open in a browser, install [this script](https://github.com/mudachyo/BUMP/raw/main/bump-web.user.js)
 - Open [Bot BUMP](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DMMproBump_bot%26start%3Dref_2475526) and run the game
 
 - ![Result](image.png)
