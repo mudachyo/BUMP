@@ -8,7 +8,7 @@
 - Для того, чтобы BUMP открывался в браузере установите [этот скрипт](https://github.com/mudachyo/BUMP/raw/main/bump-web.user.js)
 - Открыть [Бота BUMP](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DMMproBump_bot%26start%3Dref_2475526) и запустить игру
 
-- ![Результат](result.gif)
+- ![Результат](image.png)
 
 ---
 > [!TIP]
