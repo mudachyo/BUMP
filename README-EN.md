@@ -28,16 +28,16 @@
 >
 > - [Gemz + Autoclicker](https://github.com/mudachyo/Gemz)
 >
-> - [Crossfi + Autoclicker](https://github.com/mudachyo/Crossfi)
+> - [Сrossfi + Autoclicker](https://github.com/mudachyo/Crossfi)
 >
 > - [BUMP](https://github.com/mudachyo/BUMP)
 >
 > - [W-Coin](https://github.com/mudachyo/W-Coin)
 ---
 > [!IMPORTANT] 
-> Пожертвование
+> Donation
 > 
-> Мы принимаем следующие криптовалюты:
+> We accept the following cryptocurrencies:
 > 
 > - **TON**: `UQCGUzPN5GnFqWJiYsFtqqLGO75-cBXlOL8f_qbd7yKY2Tzh`
 > 
@@ -49,4 +49,4 @@
 > 
 > - **BTC**: `1Mba8xKKVLdcFJdV7jD8Ba3fFn7DWbp4bt`
 > 
-> Пожертвования будут использованы для поддержания/сохранения проекта.
+> Donations will be used to maintain the project.
