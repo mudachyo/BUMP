@@ -6,6 +6,7 @@
 ## Как запустить  
 - Установить в свой браузер расширение [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
 - Для того, чтобы BUMP открывался в браузере установите [этот скрипт](https://github.com/mudachyo/BUMP/raw/main/bump-web.user.js)
+- Для установки **автокликера** установите [этот скрипт](https://github.com/mudachyo/BUMP/raw/main/BUMP-autoclicker.user.js)
 - Открыть [Бота BUMP](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DMMproBump_bot%26start%3Dref_2475526) и запустить игру
 
 - ![Результат](image.png)
@@ -30,9 +31,13 @@
 >
 > - [Сrossfi + Autoclicker](https://github.com/mudachyo/Crossfi)
 >
-> - [BUMP](https://github.com/mudachyo/BUMP)
+> - [BUMP + Autoclicker](https://github.com/mudachyo/BUMP)
 >
-> - [W-Coin](https://github.com/mudachyo/W-Coin)
+> - [W-Coin + Autoclicker](https://github.com/mudachyo/W-Coin)
+>
+> - [1win + Autoclicker](https://github.com/mudachyo/1win-Token)
+>
+> - [Not Pixel + Autoclicker](https://github.com/mudachyo/Not-Pixel)
 ---
 > [!IMPORTANT] 
 > Пожертвование

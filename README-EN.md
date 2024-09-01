@@ -6,8 +6,8 @@
 ## How to run  
 - Install extension in your browser [Violentmonkey](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=be)
 - In order for BUMP to open in a browser, install [this script](https://github.com/mudachyo/BUMP/raw/main/bump-web.user.js)
+- To install **autoclicker** install [this script](https://github.com/mudachyo/BUMP/raw/main/BUMP-autoclicker.user.js)
 - Open [Bot BUMP](https://web.telegram.org/k/#?tgaddr=tg%3A%2F%2Fresolve%3Fdomain%3DMMproBump_bot%26start%3Dref_2475526) and run the game
-
 - ![Result](image.png)
 
 ---
@@ -30,9 +30,13 @@
 >
 > - [Сrossfi + Autoclicker](https://github.com/mudachyo/Crossfi)
 >
-> - [BUMP](https://github.com/mudachyo/BUMP)
+> - [BUMP + Autoclicker](https://github.com/mudachyo/BUMP)
 >
-> - [W-Coin](https://github.com/mudachyo/W-Coin)
+> - [W-Coin + Autoclicker](https://github.com/mudachyo/W-Coin)
+>
+> - [1win + Autoclicker](https://github.com/mudachyo/1win-Token)
+>
+> - [Not Pixel + Autoclicker](https://github.com/mudachyo/Not-Pixel)
 ---
 > [!IMPORTANT] 
 > Donation
