@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         BUMP Autoclicker
-// @version      1.0
+// @version      1.1
 // @author       mudachyo
 // @match        *://mmbump.pro/*
 // @run-at       document-start
@@ -91,7 +91,7 @@
     // Функция автоклика
     function autoClick() {
         try {
-            const element = document.querySelector('#root > div.styled__MainContainer-sc-dmv8vl-0.fuBJHP > div.styled__Page-sc-18eupc9-0.crlOkF > div.styled__Wrapper-sc-1lbly2t-0.Taksi > div > div.styled__ScaleWrap-sc-1lbly2t-5.iRLOdy > div.styled__Content-sc-1lbly2t-6.iidaUe');
+            const element = document.querySelector('#root > div.styled__MainContainer-sc-dmv8vl-0.fuBJHP > div.styled__Page-sc-18eupc9-0.crlOkF > div.styled__Wrapper-sc-1lbly2t-0.kArHQu > div > div.styled__ScaleWrap-sc-1lbly2t-5.iRLOdy > div.styled__Content-sc-1lbly2t-6.iidaUe');
             if (element) {
                 const { x, y } = getRandomCoordinates(element);
                 triggerEvents(element, x, y);
